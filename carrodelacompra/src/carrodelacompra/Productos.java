@@ -3,7 +3,7 @@ package carrodelacompra;
 import java.util.ArrayList;
 
 /**
- * @author Edmundo Gascón
+
  * 
  */
 

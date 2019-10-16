@@ -5,10 +5,6 @@ import java.util.Scanner;
 
 public class TiendaVirtual {
 
-	// edmondos@hotmail.com
-	// Atributos menu inicial, damos la opcion de introducir Minusculas o
-	// Mayusculas Alta, Invitado, Registrado, Sair
-
 	private String r = "R";
 	private String s = "S";
 	private String a = "A";
